@@ -176,6 +176,10 @@ To debug, type `gdb foo`.  The most basic gdb commands are: (I give their shortc
 - `n` (continue execution to the next source line) `s` (continue until control reaches a different source file)
 - `c` (continue execution)
 
+To learn more about `gdb`, here are some useful links:
+- [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
+- [A Youtube video on gdb] (blog pos://www.youtube.com/watch?v=xQ0ONbt-qPs)
+   
 ### Exercise 2 (Submit the fixed foo.c and Makefile. Makefile should contain the debug flag and the pattern match rules discussed in exercise 1)
 
 * Modify your Makefile to include the `-g` flag
