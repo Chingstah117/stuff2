@@ -178,7 +178,7 @@ To debug, type `gdb foo`.  The most basic gdb commands are: (I give their shortc
 
 To learn more about `gdb`, here are some useful links:
 - [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
-- [A Youtube video on gdb] (https://www.youtube.com/watch?v=xQ0ONbt-qPs)
+- [A Youtube video on gdb](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
    
 ### Exercise 2 (Submit the fixed foo.c and Makefile. Makefile should contain the debug flag and the pattern match rules discussed in exercise 1)
 
